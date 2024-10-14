@@ -178,3 +178,4 @@ dist
 
 .env
 squarecloud.app
+node_modules    
