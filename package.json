@@ -1,0 +1,18 @@
+{
+  "name": "chord-bot",
+  "type": "commonjs",
+  "main": "index.js",
+  "author": "@mikahxyz",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "colors": "latest",
+    "discord.js": "latest",
+    "dotenv": "latest",
+    "lavalink-api-client": "latest",
+    "lavalink-client": "latest",
+    "mongoose": "latest",
+    "node-vibrant": "latest"
+  }
+}
